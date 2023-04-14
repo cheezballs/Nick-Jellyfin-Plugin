@@ -1,0 +1,14 @@
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.csproj.AssemblyReference.cache
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.AssemblyInfoInputs.cache
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.AssemblyInfo.cs
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.csproj.CoreCompileInputs.cache
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.xml
+C:\Users\sweet\dev\nick-jellyfin\bin\Debug\net6.0\Jellyfin.Plugin.Template.deps.json
+C:\Users\sweet\dev\nick-jellyfin\bin\Debug\net6.0\Jellyfin.Plugin.Template.dll
+C:\Users\sweet\dev\nick-jellyfin\bin\Debug\net6.0\Jellyfin.Plugin.Template.pdb
+C:\Users\sweet\dev\nick-jellyfin\bin\Debug\net6.0\Jellyfin.Plugin.Template.xml
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.dll
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\refint\Jellyfin.Plugin.Template.dll
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\Jellyfin.Plugin.Template.pdb
+C:\Users\sweet\dev\nick-jellyfin\obj\Debug\net6.0\ref\Jellyfin.Plugin.Template.dll
